@@ -42,7 +42,6 @@ Explain on these points → How do you handle different ticket formats? → What
 
 ---
 # You can have fast, cheap, or accurate models. Pick two and explain why.
-The best answers: ✅ "Depends on the use case - let me give examples..." ✅ "Here's how I'd make that decision with stakeholders..." ✅ "Can we redefine 'accurate' for this problem?" The worst: "I'd optimize for all three"
 
 ---
 # Here's a Jupyter notebook that works. How would you productionize it?
