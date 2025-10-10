@@ -97,3 +97,4 @@ Here’s how strong teams improve contextual precision:
 - Task-specific embeddings → Fine-tune embeddings on your domain instead of relying on generic off-the-shelf vectors.
 
 ---
+# Our team needs to build RAG over 10 million documents. Which vector database would you recommend and, crucially, why? and provide the trade offs.
