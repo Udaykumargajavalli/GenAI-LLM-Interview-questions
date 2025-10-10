@@ -98,3 +98,4 @@ Here’s how strong teams improve contextual precision:
 
 ---
 # Our team needs to build RAG over 10 million documents. Which vector database would you recommend and, crucially, why? and provide the trade offs.
+# Why does chain-of-thought (CoT) reasoning improve LLM performance on complex tasks - but sometimes fails catastrophically?
